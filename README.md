@@ -1,6 +1,6 @@
 # 📌 API de Gerenciamento de Tarefas
 
-API REST desenvolvida para gerenciamento de tarefas com autenticação de usuários, criada com foco em boas práticas de backend e ideal para portfólio de desenvolvedor iniciante.
+API REST desenvolvida para gerenciamento de tarefas com autenticação de usuários.
 
 ## 🚀 Tecnologias
 - Node.js
